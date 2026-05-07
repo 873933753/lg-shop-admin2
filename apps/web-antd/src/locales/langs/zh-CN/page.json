@@ -1,0 +1,25 @@
+{
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "codeLogin": "验证码登录",
+    "qrcodeLogin": "二维码登录",
+    "forgetPassword": "忘记密码",
+    "profile": "个人中心"
+  },
+  "dashboard": {
+    "workspace": "工作台"
+  },
+  "mall": {
+    "title": "商城管理",
+    "category": "分类管理",
+    "product": "商品管理",
+    "user": "用户管理",
+    "order": "订单管理"
+  },
+  "system": {
+    "profile": "个人中心",
+    "title": "系统管理",
+    "user": "用户管理"
+  }
+}

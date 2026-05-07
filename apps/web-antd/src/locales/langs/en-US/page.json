@@ -1,0 +1,25 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "Qr Code Login",
+    "forgetPassword": "Forget Password",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "workspace": "Workspace"
+  },
+  "mall": {
+    "title": "Mall Management",
+    "category": "Category Management",
+    "product": "Product Management",
+    "user": "User Management",
+    "order": "Order Management"
+  },
+  "system": {
+    "profile": "Profile",
+    "title": "System",
+    "user": "User Management"
+  }
+}
