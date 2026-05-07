@@ -142,6 +142,7 @@ catalog:
   postcss: ^8.5.9
   postcss-html: ^1.8.1
   postcss-scss: ^4.0.9
+  prettier: ^3.5.3
   publint: ^0.3.18
   qrcode: ^1.5.4
   qs: ^6.15.1
